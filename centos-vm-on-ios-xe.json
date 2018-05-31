@@ -8,33 +8,33 @@
     {"title": "Step 1. Build the CentOS 7 VM",
      "file":"1.md"},
     {"title": "Step 2. Enable serial service on the CentOS 7 VM",
-     "file": "2.md"}
+     "file": "2.md"},
     {"title": "Step 3. Configure CentOS 7 VM firewall",
-     "file": "3.md"}
+     "file": "3.md"},
     {"title": "Step 4. Configure proxy setting",
-     "file": "4.md"}
+     "file": "4.md"},
     {"title": "Step 5. Install other applications",
-     "file": "5.md"}
+     "file": "5.md"},
     {"title": "Step 6. Learn the characteristics of an IOx package",
       "file": "6.md"}
     {"title": "Step 7. Prepare VM File System Storage",
       "file": "7.md"},
     {"title": "Step 8. Create the IOx package descriptor",
-      "file": "8.md"}
+      "file": "8.md"},
     {"title": "Step 9. Build the IOx package",
-      "file": "9.md"}
+      "file": "9.md"},
     {"title": "Step 10. Copy the IOx package to the Cisco device",
-      "file": "10.md"}
+      "file": "10.md"},
     {"title": "Step 11. Enable IOX on the Cisco IOS XE device",
-      "file": "11.md"}
+      "file": "11.md"},
     {"title": "Step 12. Configure the App",
-      "file": "12.md"}
+      "file": "12.md"},
     {"title": "Step 13. Install the IOx package",
-      "file": "13.md"}
+      "file": "13.md"},
     {"title": "Step 14. Verify the VM status and details",
-      "file": "14.md"}
+      "file": "14.md"},
     {"title": "Step 15. (optional) Connect to the VM console and configure Networking",
-      "file": "15.md"}
+      "file": "15.md"},
     {"title": "Step 16. Verify VM is reachable from outside the device",
       "file": "16.md"}
   ],
