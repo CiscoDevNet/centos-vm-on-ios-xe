@@ -16,7 +16,7 @@
     {"title": "Step 5. Install other applications",
      "file": "5.md"},
     {"title": "Step 6. Learn the characteristics of an IOx package",
-      "file": "6.md"}
+      "file": "6.md"},
     {"title": "Step 7. Prepare VM File System Storage",
       "file": "7.md"},
     {"title": "Step 8. Create the IOx package descriptor",
